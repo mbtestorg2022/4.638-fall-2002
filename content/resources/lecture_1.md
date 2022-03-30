@@ -7,6 +7,7 @@ description: These lecture notes were transcribed by Chris Muskopf, a student in
   course, Leonardo Diaz Borioli.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/4871d78e57a7f717194e321063e7f8f6_lecture_1.pdf
 file_type: application/pdf
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 1: Introduction: Drawings, numbers, and the power of (printed) images'
 uid: 4871d78e-57a7-f717-194e-321063e7f8f6

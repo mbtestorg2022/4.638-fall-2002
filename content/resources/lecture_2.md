@@ -7,6 +7,7 @@ description: These lecture notes were transcribed by Yanni Loukissas, a student 
   course, Leonardo Diaz Borioli.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/2e1a74958d71a5dadf10e704dff4f881_lecture_2.pdf
 file_type: application/pdf
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 2: The Primacy of the Word: Vitruvius and the mystery of his missing
   images'

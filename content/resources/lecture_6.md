@@ -7,6 +7,7 @@ description: These lecture notes were transcribed by Yanni Loukissas, a student 
   course, Leonardo Diaz Borioli.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/2413f965fcec2be06febc16d48f69a52_lecture_6.pdf
 file_type: application/pdf
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 6: Image-Making Technologies, Architecture, and Identical Replication'
 uid: 2413f965-fcec-2be0-6feb-c16d48f69a52

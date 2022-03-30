@@ -7,6 +7,7 @@ description: These lecture notes were transcribed by Kyle Steinfeld, a student i
   course, Leonardo Diaz Borioli.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/8c3073aa555fb5b5154e2d4fb29dbeff_lecture_4.pdf
 file_type: application/pdf
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 4: Alberti''s improbable image-making technologies'
 uid: 8c3073aa-555f-b5b5-154e-2d4fb29dbeff

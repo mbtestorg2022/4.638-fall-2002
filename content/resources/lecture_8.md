@@ -7,6 +7,7 @@ description: These lecture notes were transcribed by Yanni Loukissas, a student 
   course, Leonardo Diaz Borioli.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/90dcb1f200e158ec1760c915fc760ceb_lecture_8.pdf
 file_type: application/pdf
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 8: Final Lecture'
 uid: 90dcb1f2-00e1-58ec-1760-c915fc760ceb

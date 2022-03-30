@@ -7,6 +7,7 @@ description: These lecture notes were transcribed by B. Alex Miller, a student i
   course, Leonardo Diaz Borioli.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/fc4d669bd899dd1d60f5349560e8e90c_lecture_3.pdf
 file_type: application/pdf
+parent_uid: df63b8d7-3fad-cc76-2f8d-de6a3094c994
 resourcetype: Document
 title: 'Lecture 3: Alberti and the (untrustworthy) power of man-made images'
 uid: fc4d669b-d899-dd1d-60f5-349560e8e90c
